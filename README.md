@@ -54,7 +54,7 @@ $ tva --inspect ezaiez
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/deadlines.png" width="180" alt="Miss Minutes in cube" />
+  <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/loki-miss.gif" width="180" alt="Miss Minutes" />
 </p>
 
 ---
