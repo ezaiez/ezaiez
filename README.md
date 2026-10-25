@@ -12,7 +12,11 @@
 
 <h3 align="center">━━━ FOR ALL TIME. ALWAYS. ━━━</h3>
 
-<hr/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/timebranches.png" width="720" alt="Timeline branches" />
+</p>
+
+---
 
 ## 📁 CASE FILE · VARIANT `EZAI`
 
@@ -31,13 +35,12 @@ $ tva --inspect ezaiez
 |---|---|
 | **Designation** | `ezaiez` |
 | **Alias** | EZAI |
-| **Origin Timeline** | 🌎 *TBD* |
-| **Current Role** | *TBD* |
-| **Clearance** | 🟠 Level *TBD* |
+| **Origin Timeline** | 🌎 Earth-717 |
+| **Current Role** | ❓ Unknown... |
 
 ### 🔭 On the Temporal Radar
 
-> *[Escribe aquí un resumen sobre ti — tu misión en esta línea temporal.]*
+> *"His mission is unknown..."*
 
 ---
 
@@ -48,6 +51,10 @@ $ tva --inspect ezaiez
 -->
 <p align="center">
   ⏳ *Awaiting equipment inventory…*
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/deadlines.png" width="180" alt="Miss Minutes in cube" />
 </p>
 
 ---
@@ -61,14 +68,9 @@ $ tva --inspect ezaiez
 
 ---
 
-## 📡 Communication Channel
-
-<!-- Agrega tus enlaces de contacto aquí. -->
 <p align="center">
-  📫 *Transmission channel: pending…*
+  <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/missminutes2.gif" width="120" alt="Miss Minutes" />
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/tvaalways.jpg" width="280" alt="For all time. Always." />
