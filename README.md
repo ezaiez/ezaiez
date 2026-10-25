@@ -69,10 +69,6 @@ $ tva --inspect ezaiez
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/loki-season-2.gif" width="200" alt="Miss Minutes" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/shubhxg/marvel-loki-tva-website/main/tvaalways.jpg" width="280" alt="For all time. Always." />
 </p>
 
